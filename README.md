@@ -1,6 +1,19 @@
-Nike UI Website
-Overview
-Nike UI is a modern and responsive user interface for a Nike-themed website. This project is designed with a focus on clean aesthetics, functionality, and user experience. The UI mimics a Nike product showcase and provides easy navigation and interactive components.
+# Nike UI Website
+
+## Overview
+**Nike UI** is a modern and responsive user interface for a Nike-themed website. This project focuses on clean aesthetics, user experience, and functionality, aiming to showcase Nike products effectively. The design offers interactive elements.
+
+## Features
+- **Responsive Design:** Optimized for all screen sizes (desktop, tablet, and mobile).
+- **Fast and Optimized:** Lightweight and performance-focused to enhance user engagement.
+
+## Technologies Used
+- **HTML5 & CSS3:** For website structure and styling.
+- **JavaScript (ES6):** Adds dynamic behavior and interactivity.
+- **Frameworks/Libraries:**
+  - [React.js](https://reactjs.org/) (Optional)
+  - [Tailwind CSS](https://tailwindcss.com/)
+ 
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
